@@ -52,8 +52,6 @@ The system supports two main user roles:
   - View reports on issued/returned books.
   - Track most borrowed books.
 
-![Librarian Dashboard](https://via.placeholder.com/800x400.png?text=Librarian+Dashboard)
-
 ---
 
 ### 📌 Member Module
@@ -67,17 +65,6 @@ The system supports two main user roles:
   - Receive alerts for due dates and new book arrivals.
 - **Profile Management**
   - Update personal details and membership status.
-
-![Member Dashboard](https://via.placeholder.com/800x400.png?text=Member+Dashboard)
-
----
-
-## 📊 Database Schema
-The system follows a structured relational database design with the following main tables:
-- `books`: Stores book details (title, author, category, availability).
-- `members`: Stores member details (name, contact, membership type).
-- `transactions`: Tracks book borrow/return transactions.
-- `fines`: Manages overdue fine records.
 
 ---
 

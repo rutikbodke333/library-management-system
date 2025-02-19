@@ -1,5 +1,6 @@
 # Library Management System
 
+![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7-green)
 ![SpringMVC](https://img.shields.io/badge/SpringMVC-4-green)
 ![HTML](https://img.shields.io/badge/HTML-5-red)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
@@ -26,7 +27,7 @@ The system supports two main user roles:
 ---
 
 ## 🛠 Technologies Used
-- **Backend**: Spring MVC, Hibernate, JPA
+- **Backend**: Spring Boot, Spring MVC, Hibernate, JPA
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Database**: PostgreSQL
 - **Security**: Session-based authentication
@@ -88,4 +89,4 @@ The system follows a structured relational database design with the following ma
 ---
 
 ## 🏁 Conclusion
-The **Library Management System** offers an intuitive and efficient way for libraries to manage their resources, ensuring seamless book lending operations and member management. By leveraging **Spring MVC** and **PostgreSQL**, this project provides a robust and scalable platform for automating library functions.
+The **Library Management System** offers an intuitive and efficient way for libraries to manage their resources, ensuring seamless book lending operations and member management. By leveraging **Spring Boot**, **Spring MVC**, and **PostgreSQL**, this project provides a robust and scalable platform for automating library functions.
